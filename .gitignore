@@ -1,8 +1,8 @@
-bin
+bin/
 .DS_Store
 *~
 *.bak
 *.pyc
 Thumbs.db
-*.class
+*.classes
 .svn
