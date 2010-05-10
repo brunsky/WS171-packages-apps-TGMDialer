@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">3G 上網精靈</string>
+    
+    <string name="tgm_plug_in_dongle_label">請插入您的 3G USB 無線網卡到 WebStation 上。</string>
+    
+    <string name="tgm_sim_failure_label">您的SIM卡未插入或是SIM卡偵測失敗。</string>
+    
+    <string name="tgm_enter_pin_label">SIM卡有PIN密碼保護。</string>
+    
+    <string name="tgm_enter_puk_label">SIM卡以被PUK碼鎖定</string>
+    
+    <string name="tgm_header_label">3G 上網精靈</string>
+    
+    <string name="tgm_carrier_label">營運商: </string>
+    
+    <string name="tgm_modem_model_label">網卡型號: </string>
+    
+    <string name="tgm_signal_strength_label">信號強度: </string>
+    
+    <string name="tgm_apn_setting_label">APN 設定: </string>
+    
+    
+    <string name="tgm_faq_option_menu_text">常見問題</string>
+    
+     <!-- PIN Dialog -->
+    
+    <string name="tgm_enter_pin_dialog_title">PIN 碼</string>
+    
+    <string name="tgm_enter_pin_dialog_message">請於下面文字框 輸入您的 PIN 碼。</string>
+    
+    <string name="tgm_enter_pin_dialog_incorrect_pin_message">
+    錯誤的 PIN 碼！請輸入您的 PIN 碼了。\n
+    如果您忘記了 PIN 碼，請聯繫您的服務供應商。
+    </string>
+   
+    
+    <string name="tgm_enter_pin_dialog_apply_btn_text">確認</string>
+    
+    <string name="tgm_enter_pin_empty_pin_alert_dialog_title">您尚未填入您的 PIN 碼。</string>
+    
+    <string name="tgm_enter_pin_empty_pin_alert_dialog_message">PIN 碼不得為空</string>
+    
+    <string name="tgm_enter_pin_empty_pin_alert_possitive_btn">確認</string>
+    
+    
+    <!-- PUK Dialog -->
+    
+    <string name="tgm_enter_puk_dialog_title">PUK 碼</string>
+    
+    <string name="tgm_enter_puk_dialog_message"> 請於下面文字框輸入您的 PUK 碼。</string>
+    
+    <string name="tgm_enter_puk_dialog_apply_btn_text">確認</string>
+    
+    <string name="tgm_enter_puk_dialog_incorrect_puk_message">
+    錯誤的 PUK 碼！請輸入您的正確 PUK 碼了。\n
+    如果您忘記了 PUK 碼，請聯繫您的服務供應商。
+    </string>
+    
+    <string name="tgm_enter_sim_bricked_dialog_title">注意</string>
+    
+    <string name="tgm_enter_sim_bricked_dialog_message">
+	對不起！您的 SIM 卡已被鎖定。\n
+	請直接聯繫您的服務供應商。
+    </string>
+    
+    <!-- APN Dialog -->
+    
+    <string name="tgm_change_apn_dialog_title">變更您的 APN</string>
+    
+    <string name="tgm_change_apn_dialog_info">請於下面文字框輸入您的 PDP 供應商</string>
+    
+    <string name="tgm_change_apn_dialog_change_btn_text">變更</string>
+    
+    <string name="tgm_change_apn_dialog_cancel_btn_text">取消</string>
+    
+    <string name="tgm_change_apn_option_menu_text">變更 APN</string>
+    
+    
+    <string name="tgm_about_option_menu_text">關於我們</string>
+    
+    <string name="tgm_change_apn_apn_label_text">APN: </string>
+    
+    <string name="tgm_set_pppd_auth_option_menu_text">認證</string>
+    
+    <string name="tgm_set_pppd_auth_username_label_text">使用者名稱: </string>
+    
+    <string name="tgm_set_pppd_auth_password_label_text">密碼: </string>
+    
+    <string name="tgm_set_pppd_auth_dialog_title_text">設定身分認證訊息</string>
+    
+    <string name="tgm_set_ppps_auth_dialog_ok_text">確認</string>
+    
+    <string name="tgm_set_ppps_auth_dialog_cancel_text">取消</string>
+    
+    <string name="tgm_dial_to_network_progress_dialog_title">撥號中</string>
+    
+    <string name="tgm_dial_to_network_progress_dialog_message">連接 3G 網絡中，請稍候。</string>
+    
+    <string name="tgm_dial_failed_dialog_title">注意</string>
+    
+    <string name="tgm_dial_failed_dialog_message">撥號失敗, 請重試。</string>
+    
+    <string name="tgm_dial_failed_ok_btn_text">確認</string>
+        
+    <string name="tgm_disconnect_from_network_progress_dialog_title">斷線中</string>
+    
+    <string name="tgm_disconnect_from_network_progress_dialog_message">正在中斷 3G 網路, 請稍候。</string>
+    
+    <string name="tgm_enter_pin_progress_dialog_title">更新中</string>
+    
+    <string name="tgm_enter_pin_progress_dialog_message">更新裝備狀態, 請稍候。</string>
+    
+    <string name="tgm_disable_wifi_dialog_title_text">無線網路設定</string>
+    
+    <string name="tgm_disable_wifi_dialog_message_text">
+    當您開啟3G時，無線網路將被禁用\n
+    請問您要繼續嗎？
+    </string>
+    
+    <string name="tgm_disable_wifi_dialog_positive_btn_text">是</string>
+    
+    <string name="tgm_disable_wifi_dialog_negtive_btn_text">否</string>
+    
+    <string name="tgm_dial_info_text">請點擊撥號圖示 進行撥號。</string>
+    
+    <string name="tgm_dial_btn_text">撥號</string>
+    
+    <string name="tgm_disconnect_btn_text">中斷</string>
+    
+    <string name="tgm_connection_established_label">連線成功</string>
+    
+    <string name="tgm_connection_success_text">連線成功!\n請按 Home 鍵 切換至其他程式。</string>
+    
+    <string name="tgm_connection_time_label">連線時間: </string>
+    
+    <string name="tgm_network_flow_label">網路流量: </string>
+    
+    <string name="tgm_disconnect_info_text_left">請點擊</string>
+    
+    <string name="tgm_disconnect_info_text_right">停止您的 3G 連線</string>
+    
+    <string name="tgm_about_us_version_text">版本: 3G Wizard 1.2.0.001, 2010/05/10</string>
+    
+    <string name="tgm_about_us_provider_text">提供者: Camangi Corporation</string>
+    
+    <string name="tgm_about_us_description_text">
+    3G 上網精靈為  Camangi 博祥網通公司提供的 Android 3G 網路連結程式。\n
+    Camangi 博祥網通自2002年開始，便致力於網路通訊技術與服務的開發和營運。\n
+    專長領域包括 Web Talk 專利技術、各種 VoIP 服務解決方案、網路加值服務應用平台及模組之開發與營運。
+    </string>
+    
+    <string name="tgm_about_us_copyright_text">
+    版權所有 2009-2011 Camangi 博祥網通 保留所有權利。此外，3G上網精靈的名稱和圖示為 Camangi 博祥網通的商標。
+    </string>
+    
+    <string name= "tgm_about_us_warning_text">
+    警告：本軟件受版權法保護。未經許可，複製和散發本軟件，可能導致民事和/或刑事處罰，並將受到起訴充分法律規定範圍內。
+    </string>
+    
+    <string name="tgm_about_us_leave_btn_text">返回</string>
+    
+    <string name="tgm_air_plane_mode_text">3G 功能禁止在飛航模式時使用。</string>
+    
+    <string name="tgm_powered_by_camangi">Camangi 所有。</string>
+ 
+</resources>

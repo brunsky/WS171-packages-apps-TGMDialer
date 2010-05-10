@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">3G Wizard</string>
+    
+    <string name="tgm_plug_in_dongle_label">Please plug in your 3G dongle on WebStation.</string>
+    
+    <string name="tgm_sim_failure_label">SIM card absent or failure</string>
+    
+    <string name="tgm_enter_pin_label">SIM is protected by PIN code</string>
+    
+    <string name="tgm_enter_puk_label">SIM is locked by PUK code</string>
+    
+    <string name="tgm_header_label">3G Wizard</string>
+    
+    <string name="tgm_carrier_label">Carrier: </string>
+    
+    <string name="tgm_modem_model_label">Modem Model: </string>
+    
+    <string name="tgm_signal_strength_label">Signal Strength: </string>
+    
+    <string name="tgm_apn_setting_label">APN Setting: </string>
+    
+    
+    <string name="tgm_faq_option_menu_text">FAQ</string>
+    
+     <!-- PIN Dialog -->
+    
+    <string name="tgm_enter_pin_dialog_title">PIN Code</string>
+    
+    <string name="tgm_enter_pin_dialog_message">Please enter your PIN code into below column.</string>
+    
+    <string name="tgm_enter_pin_dialog_incorrect_pin_message">
+    Wrong PIN Code! Please enter your PIN Code again.\n
+    If you forget your PIN Code, please contact your service provider.
+    </string>
+   
+    
+    <string name="tgm_enter_pin_dialog_apply_btn_text">OK</string>
+    
+    <string name="tgm_enter_pin_empty_pin_alert_dialog_title">Empty PIN Code</string>
+    
+    <string name="tgm_enter_pin_empty_pin_alert_dialog_message">Empty PIN Code is not allowed</string>
+    
+    <string name="tgm_enter_pin_empty_pin_alert_possitive_btn">OK</string>
+    
+    
+    <!-- PUK Dialog -->
+    
+    <string name="tgm_enter_puk_dialog_title">PUK Code</string>
+    
+    <string name="tgm_enter_puk_dialog_message"> Please enter your PUK code into below column.</string>
+    
+    <string name="tgm_enter_puk_dialog_apply_btn_text">OK</string>
+    
+    <string name="tgm_enter_puk_dialog_incorrect_puk_message">
+    Wrong PUK Code! Please enter your PUK Code again.\n
+    If you forget your PUK Code, please contact your service provider.
+    </string>
+    
+    
+    <string name="tgm_enter_sim_bricked_dialog_title">Notice</string>
+    
+    <string name="tgm_enter_sim_bricked_dialog_message">Sorry! Your SIM card is locked,\n 
+    Please contact your service provider directly.
+    </string>
+    
+    <!-- APN Dialog -->
+    
+    <string name="tgm_change_apn_dialog_title">Change APN</string>
+    
+    <string name="tgm_change_apn_dialog_info">Please enter your PDP carrier into the below column.</string>
+    
+    <string name="tgm_change_apn_dialog_change_btn_text">Change</string>
+    
+    <string name="tgm_change_apn_dialog_cancel_btn_text">Cancel</string>
+    
+    <string name="tgm_change_apn_option_menu_text">Change APN</string>
+    
+    
+    <string name="tgm_about_option_menu_text">About us</string>
+    
+    <string name="tgm_change_apn_apn_label_text">APN: </string>
+    
+    <string name="tgm_set_pppd_auth_option_menu_text">Set Auth</string>
+    
+    <string name="tgm_set_pppd_auth_username_label_text">Username: </string>
+    
+    <string name="tgm_set_pppd_auth_password_label_text">Password: </string>
+    
+    <string name="tgm_set_pppd_auth_dialog_title_text">Setting Authentication Info</string>
+    
+    <string name="tgm_set_ppps_auth_dialog_ok_text">OK</string>
+    
+    <string name="tgm_set_ppps_auth_dialog_cancel_text">Cancel</string>
+    
+    
+    <string name="tgm_dial_to_network_progress_dialog_title">Dialing</string>
+    
+    <string name="tgm_dial_to_network_progress_dialog_message">Connecting to 3G network, please wait a moment</string>
+    
+    <string name="tgm_dial_failed_dialog_title">Notice</string>
+    
+    <string name="tgm_dial_failed_dialog_message">Dial failed, Please try again.</string>
+    
+    <string name="tgm_dial_failed_ok_btn_text">OK</string>
+        
+    <string name="tgm_disconnect_from_network_progress_dialog_title">Disconnecting</string>
+    
+    <string name="tgm_disconnect_from_network_progress_dialog_message">Disconnecting from 3G network, please wait a moment</string>
+    
+    <string name="tgm_enter_pin_progress_dialog_title">Refreshing</string>
+    
+    <string name="tgm_enter_pin_progress_dialog_message">Refreshing device status, please wait a moment</string>
+    
+    <string name="tgm_disable_wifi_dialog_title_text">Wifi Configuration</string>
+    
+    <string name="tgm_disable_wifi_dialog_message_text">Wifi will be disabled while 3G is on.\n Do you want to proceed?</string>
+    
+    <string name="tgm_disable_wifi_dialog_positive_btn_text">Yes</string>
+    
+    <string name="tgm_disable_wifi_dialog_negtive_btn_text">No</string>
+    
+    
+    
+    <string name="tgm_dial_info_text">Please click the dial icon to bridge your 3G connection.</string>
+    
+    <string name="tgm_dial_btn_text">Dial</string>
+    
+    <string name="tgm_disconnect_btn_text">Disconnect</string>
+    
+    <string name="tgm_connection_established_label">Connection Established</string>
+    
+    <string name="tgm_connection_success_text">Connect Successfully!\nPlease press Home Key to process other applications with 3G connection</string>
+    
+    <string name="tgm_connection_time_label">Connecting Time: </string>
+    
+    <string name="tgm_network_flow_label">Network Flow: </string>
+    
+    <string name="tgm_disconnect_info_text_left">Please click the</string>
+    
+    <string name="tgm_disconnect_info_text_right">to stop your 3G connection.</string>
+    
+    <string name="tgm_about_us_version_text">Version: 3G Wizard 1.1.3.003, 2009/12/22</string>
+    
+    <string name="tgm_about_us_provider_text">Provider: Camangi Corporation</string>
+    
+    <string name="tgm_about_us_description_text">3G Wizard is a 3G connecter application for Android OS provided by Camangi Corporation.\nCamangi is an international
+company that specializes in the business of Internet Communication,\nincluding Web Talk patent technology, VoIP solutions,
+value-added application platform or modules for web and internet service operation since 2002.
+    </string>
+    
+    <string name="tgm_about_us_copyright_text">Copyright 2009-2011 Camangi Corp. All rights reserved.
+The 3G Wizard name and logo are trademarks of Camangi Corp.
+    </string>
+    
+    <string name= "tgm_about_us_warning_text">Warning
+This software is protected by copyright law. Unauthorized reproduction or distribution of this software, may result in civil and/or criminal penalties,
+and will be prosecuted to the full extent under the law.
+    </string>
+    
+    <string name="tgm_about_us_leave_btn_text">Return</string>
+    
+    <string name="tgm_air_plane_mode_text">3G functionality is disabled in AirPlane Mode</string>
+    
+    <string name="tgm_powered_by_camangi">Powered by Camangi</string>
+    
+    
+    
+</resources>

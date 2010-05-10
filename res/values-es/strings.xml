@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">3G Wizard</string>
+    
+    <string name="tgm_plug_in_dongle_label">Por favor, introduzca su tarjeta 3G USB inalámbrico a la WebStation en.</string>
+    
+    <string name="tgm_sim_failure_label">La tarjeta SIM de ausencia o insuficiencia</string>
+    
+    <string name="tgm_enter_pin_label">SIM está protegida por el código PIN.</string>
+    
+    <string name="tgm_enter_puk_label">SIM está bloqueada por el código PUK.</string>
+    
+    <string name="tgm_header_label">3G Wizard</string>
+    
+    <string name="tgm_carrier_label">Carrier: </string>
+    
+    <string name="tgm_modem_model_label">Modem Modelo: </string>
+    
+    <string name="tgm_signal_strength_label">Potencia de la señal: </string>
+    
+    <string name="tgm_apn_setting_label">Configuración de APN: </string>
+    
+    
+    <string name="tgm_faq_option_menu_text">Preguntas frecuentes</string>
+    
+     <!-- PIN Dialog -->
+    
+    <string name="tgm_enter_pin_dialog_title">PIN Code</string>
+    
+    <string name="tgm_enter_pin_dialog_message">Por favor, introduzca su código PIN en la siguiente columna</string>
+    
+    <string name="tgm_enter_pin_dialog_incorrect_pin_message">
+    Código PIN incorrecto! Por favor introduce el código PIN de nuevo.\n
+    Si usted olvida su código PIN, póngase en contacto con su proveedor de servicios.
+    </string>
+   
+    
+    <string name="tgm_enter_pin_dialog_apply_btn_text">OK</string>
+    
+    <string name="tgm_enter_pin_empty_pin_alert_dialog_title">Vaciar código PIN</string>
+    
+    <string name="tgm_enter_pin_empty_pin_alert_dialog_message">Vaciar código PIN no se permite</string>
+    
+    <string name="tgm_enter_pin_empty_pin_alert_possitive_btn">OK</string>
+    
+    
+    <!-- PUK Dialog -->
+    
+    <string name="tgm_enter_puk_dialog_title">Código PUK</string>
+    
+    <string name="tgm_enter_puk_dialog_message">Por favor, introduzca el código PUK en la siguiente columna.</string>
+    
+    <string name="tgm_enter_puk_dialog_apply_btn_text">OK</string>
+    
+    <string name="tgm_enter_puk_dialog_incorrect_puk_message">
+    Código PUK incorrecto! Por favor, introduzca su código PUK nuevo Si usted olvida su código PUK,
+    póngase en contacto con su proveedor de servicios.
+    </string>
+    
+    
+    <string name="tgm_enter_sim_bricked_dialog_title">Aviso</string>
+    
+    <string name="tgm_enter_sim_bricked_dialog_message">
+    Perdón! La tarjeta SIM está bloqueada, \n
+    por favor póngase en contacto con su proveedor de servicios directamente.
+    </string>
+    
+    <!-- APN Dialog -->
+    
+    <string name="tgm_change_apn_dialog_title">Cambiar APN</string>
+    
+    <string name="tgm_change_apn_dialog_info">Por favor, introduzca su compañía de PPD en la siguiente columna.</string>
+    
+    <string name="tgm_change_apn_dialog_change_btn_text">Cambio</string>
+    
+    <string name="tgm_change_apn_dialog_cancel_btn_text">Cancelar</string>
+    
+    <string name="tgm_change_apn_option_menu_text">Cambiar APN</string>
+    
+    
+    <string name="tgm_about_option_menu_text">¿Quiénes somos?</string>
+    
+    <string name="tgm_change_apn_apn_label_text">APN: </string>
+    
+    <string name="tgm_set_pppd_auth_option_menu_text">Autenticación</string>
+    
+    <string name="tgm_set_pppd_auth_username_label_text">Nombre de usuario: </string>
+    
+    <string name="tgm_set_pppd_auth_password_label_text">Contraseña: </string>
+    
+    <string name="tgm_set_pppd_auth_dialog_title_text">Configuración de Información de autenticación</string>
+    
+    <string name="tgm_set_ppps_auth_dialog_ok_text">OK</string>
+    
+    <string name="tgm_set_ppps_auth_dialog_cancel_text">Cancelar</string>
+    
+    
+    <string name="tgm_dial_to_network_progress_dialog_title">Discado</string>
+    
+    <string name="tgm_dial_to_network_progress_dialog_message">Conexión a la red 3G, por favor espere un momento</string>
+    
+    <string name="tgm_dial_failed_dialog_title">Aviso</string>
+    
+    <string name="tgm_dial_failed_dialog_message">Marcación error, por favor reproducir!</string>
+    
+    <string name="tgm_dial_failed_ok_btn_text">OK</string>
+        
+    <string name="tgm_disconnect_from_network_progress_dialog_title">Desconectado</string>
+    
+    <string name="tgm_disconnect_from_network_progress_dialog_message">Interrupciones de la red 3G, por favor.</string>
+    
+    <string name="tgm_enter_pin_progress_dialog_title">Refrescante</string>
+    
+    <string name="tgm_enter_pin_progress_dialog_message">Actualizar el estado del dispositivo, por favor espere un momento</string>
+    
+    <string name="tgm_disable_wifi_dialog_title_text">Configuración Wifi</string>
+    
+    <string name="tgm_disable_wifi_dialog_message_text">Wifi se desactivará mientras que la 3G sea.\n ¿Desea continuar?</string>
+    
+    <string name="tgm_disable_wifi_dialog_positive_btn_text">Sí</string>
+    
+    <string name="tgm_disable_wifi_dialog_negtive_btn_text">No</string>
+    
+    
+    
+    <string name="tgm_dial_info_text">Por favor, haga clic en el icono de marcación para cerrar la conexión 3G.</string>
+    
+    <string name="tgm_dial_btn_text">Dial</string>
+    
+    <string name="tgm_disconnect_btn_text">Desconectar</string>
+    
+    <string name="tgm_connection_established_label">Conexión Establecido</string>
+    
+    <string name="tgm_connection_success_text">Conecte Exitosamente!\nFavor pulse Home Key para procesar otras aplicaciones con 3G conexión.</string>
+    
+    <string name="tgm_connection_time_label">Conexión Hora: </string>
+    
+    <string name="tgm_network_flow_label">Red de flujo: </string>
+    
+    <string name="tgm_disconnect_info_text_left">Por favor, haga clic en el</string>
+    
+    <string name="tgm_disconnect_info_text_right">para detener su conexión 3G.</string>
+    
+    <string name="tgm_about_us_version_text">Versión: 3G Wizard 1.2.0.001, 2010/05/10</string>
+    
+    <string name="tgm_about_us_provider_text">Proveedor: Camangi Corporation</string>
+    
+    <string name="tgm_about_us_description_text">
+    3G Wizard es una aplicación 3G conector para el sistema operativo Android proporcionada por Camangi Corporation.\n
+	Camangi es una empresa internacional que se especializa en el negocio de comunicaciones de Internet,\n
+	inincluding patente hablar de tecnología Web, soluciones de VoIP de valor añadido o módulos de la plataforma de aplicaciones para la web y operación de servicios de Internet desde 2002.
+    </string>
+    
+    <string name="tgm_about_us_copyright_text">Copyright 2009-2011 Camangi Corp. All rights reserved.
+The 3G Wizard name and logo are trademarks of Camangi Corp.
+    </string>
+    
+    <string name= "tgm_about_us_warning_text">
+    Advertencia Este software está protegido por derecho de autor. De reproducción o distribución no autorizada de este software,
+     puede resultar en responsabilidad civil y / o sanciones penales, y será perseguido con todo el rigor de la ley.
+    </string>
+    
+    <string name="tgm_about_us_leave_btn_text">Volver</string>
+    
+    <string name="tgm_air_plane_mode_text">3G funcionalidad está desactivado en modo Avión</string>
+    
+    <string name="tgm_powered_by_camangi">Powered by Camangi</string>
+    
+    
+    
+</resources>
