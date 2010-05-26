@@ -5,7 +5,7 @@
     android:layout_height="wrap_content">
 
 	<TextView android:id="@+id/apnInfoLabel" android:text="@string/tgm_change_apn_dialog_info" 
-	android:textSize="18dp" android:layout_width="400dp" 
+	android:textSize="16dp" android:layout_width="400dp" 
 	android:layout_height="wrap_content" android:padding="10dp"/>
 	
 	<!--  
@@ -18,11 +18,13 @@
 	</FrameLayout>
 	-->
 	
+	<!-- 
+	
 	<LinearLayout android:layout_width="400dp" android:layout_height="wrap_content">
 		
-		<TextView android:text="@string/tgm_change_apn_apn_label_text" android:textSize="18dp" 
-  			android:paddingLeft="10dp" android:paddingRight="10dp"
-  			android:layout_width="125dp" android:layout_height="wrap_content" />
+		<TextView android:text="@string/tgm_change_apn_apn_label_text" android:textSize="14dp" 
+  			android:paddingLeft="5dp" android:paddingRight="5dp"
+  			android:layout_width="wrap_content" android:layout_height="wrap_content" />
 		
 		<EditText android:id="@+id/apnEditText" android:layout_width="250dp" android:layout_height="wrap_content" />
 	
@@ -31,8 +33,8 @@
 	<LinearLayout android:layout_width="400dp" android:layout_height="wrap_content">
 	
 		<TextView android:text="@string/tgm_set_pppd_auth_username_label_text" 
-  			android:textSize="18dp" android:paddingLeft="10dp" android:paddingRight="10dp" 
-  			android:layout_width="125dp" android:layout_height="wrap_content" />
+  			android:textSize="14dp" android:paddingLeft="5dp" android:paddingRight="5dp" 
+  			android:layout_width="wrap_content" android:layout_height="wrap_content" />
 		
 		<EditText android:id="@+id/pppd_auth_username_edittext" android:layout_width="250dp" android:layout_height="wrap_content"></EditText>
 	
@@ -40,16 +42,47 @@
 	
 	<LinearLayout android:layout_width="400dp" android:layout_height="wrap_content">
 	
-		<TextView android:text="@string/tgm_set_pppd_auth_password_label_text" android:textSize="18dp" 
-  			android:paddingLeft="10dp" android:paddingRight="10dp"
-  			android:layout_width="125dp" android:layout_height="wrap_content" ></TextView>
+		<TextView android:text="@string/tgm_set_pppd_auth_password_label_text" android:textSize="14dp" 
+  			android:paddingLeft="5dp" android:paddingRight="5dp"
+  			android:layout_width="wrap_content" android:layout_height="wrap_content" ></TextView>
 		
 		<EditText android:id="@+id/pppd_auth_password_edittext" android:layout_width="250dp" android:layout_height="wrap_content"></EditText>
 	
 	</LinearLayout>
 	
 	
-    
+     -->
 
 
+	<TableLayout android:id="@+id/apn_setting_tableLayout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+		
+		<TableRow>
+			<TextView android:text="@string/tgm_change_apn_apn_label_text" android:textSize="14dp" 
+  				android:paddingLeft="5dp" android:paddingRight="5dp"
+  				android:layout_width="wrap_content" android:layout_height="wrap_content" />
+		
+			<EditText android:id="@+id/apnEditText" android:layout_width="225dp" android:layout_height="wrap_content" />
+		</TableRow>
+		
+		<TableRow>
+		
+			<TextView android:text="@string/tgm_set_pppd_auth_username_label_text" 
+  				android:textSize="14dp" android:paddingLeft="5dp" android:paddingRight="5dp" 
+  				android:layout_width="wrap_content" android:layout_height="wrap_content" />
+		
+			<EditText android:id="@+id/pppd_auth_username_edittext" android:layout_width="225dp" android:layout_height="wrap_content"></EditText>
+		
+		</TableRow>
+		
+		
+		<TableRow>
+			<TextView android:text="@string/tgm_set_pppd_auth_password_label_text" android:textSize="14dp" 
+  			android:paddingLeft="5dp" android:paddingRight="5dp"
+  			android:layout_width="wrap_content" android:layout_height="wrap_content" ></TextView>
+			<EditText android:id="@+id/pppd_auth_password_edittext" android:layout_width="225dp" android:layout_height="wrap_content"></EditText>
+		
+		</TableRow>
+	</TableLayout>
+	
+	
 </LinearLayout>
