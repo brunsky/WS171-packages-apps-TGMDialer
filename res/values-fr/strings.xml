@@ -3,7 +3,7 @@
     
     <string name="app_name">3G Wizard</string>
     
-    <string name="tgm_plug_in_dongle_label">S'il vous plaît insérez votre carte 3G USB sans fil à l'WebStation de suite.</string>
+    <string name="tgm_plug_in_dongle_label">S\'il vous plaît insérez votre carte 3G USB sans fil à l\'WebStation de suite.</string>
     
     <string name="tgm_sim_failure_label">carte SIM absent ou échec</string>
     
@@ -28,11 +28,11 @@
     
     <string name="tgm_enter_pin_dialog_title">PIN Code</string>
     
-    <string name="tgm_enter_pin_dialog_message">S'il vous plaît entrer votre code PIN dans la colonne ci-dessous.</string>
+    <string name="tgm_enter_pin_dialog_message">S\'il vous plaît entrer votre code PIN dans la colonne ci-dessous.</string>
     
     <string name="tgm_enter_pin_dialog_incorrect_pin_message">
-    Code PIN erroné! S'il vous plaît entrer votre code PIN de nouveau.\n
-    Si vous oubliez votre code PIN, s'il vous plaît contactez votre prestataire de services.
+    Code PIN erroné! S\'il vous plaît entrer votre code PIN de nouveau.\n
+    Si vous oubliez votre code PIN, s\'il vous plaît contactez votre prestataire de services.
     </string>
    
     
@@ -40,7 +40,7 @@
     
     <string name="tgm_enter_pin_empty_pin_alert_dialog_title">Vide Code PIN</string>
     
-    <string name="tgm_enter_pin_empty_pin_alert_dialog_message">Vide Code PIN n'est pas autorisé</string>
+    <string name="tgm_enter_pin_empty_pin_alert_dialog_message">Vide Code PIN n\'est pas autorisé</string>
     
     <string name="tgm_enter_pin_empty_pin_alert_possitive_btn">OK</string>
     
@@ -49,13 +49,13 @@
     
     <string name="tgm_enter_puk_dialog_title">Code PUK</string>
     
-    <string name="tgm_enter_puk_dialog_message">S'il vous plaît entrer votre code PUK dans la colonne ci-dessous.</string>
+    <string name="tgm_enter_puk_dialog_message">S\'il vous plaît entrer votre code PUK dans la colonne ci-dessous.</string>
     
     <string name="tgm_enter_puk_dialog_apply_btn_text">OK</string>
     
     <string name="tgm_enter_puk_dialog_incorrect_puk_message">
-    Wrong Code PUK! S'il vous plaît entrer votre code PUK again.\n
-    If vous oubliez votre code PUK, s'il vous plaît contactez votre prestataire de services.
+    Wrong Code PUK! S\'il vous plaît entrer votre code PUK again.\n
+    If vous oubliez votre code PUK, s\'il vous plaît contactez votre prestataire de services.
     </string>
     
     
@@ -63,14 +63,14 @@
     
     <string name="tgm_enter_sim_bricked_dialog_message">
     Désolé! Votre carte SIM est verrouillée,\n
-    S'il vous plaît contactez votre prestataire de services directement.
+    S\'il vous plaît contactez votre prestataire de services directement.
     </string>
     
     <!-- APN Dialog -->
     
     <string name="tgm_change_apn_dialog_title">Changer APN</string>
     
-    <string name="tgm_change_apn_dialog_info">S'il vous plaît entrer votre transporteur PDP dans la colonne ci-dessous.</string>
+    <string name="tgm_change_apn_dialog_info">S\'il vous plaît entrer votre transporteur PDP dans la colonne ci-dessous.</string>
     
     <string name="tgm_change_apn_dialog_change_btn_text">Changer</string>
     
@@ -85,11 +85,11 @@
     
     <string name="tgm_set_pppd_auth_option_menu_text">Authentification</string>
     
-    <string name="tgm_set_pppd_auth_username_label_text">Nom d'utilisateur: </string>
+    <string name="tgm_set_pppd_auth_username_label_text">Nom d\'utilisateur: </string>
     
     <string name="tgm_set_pppd_auth_password_label_text">Mot de passe: </string>
     
-    <string name="tgm_set_pppd_auth_dialog_title_text">Réglage informations d'authentification</string>
+    <string name="tgm_set_pppd_auth_dialog_title_text">Réglage informations d\'authentification</string>
     
     <string name="tgm_set_ppps_auth_dialog_ok_text">OK</string>
     
@@ -98,21 +98,21 @@
     
     <string name="tgm_dial_to_network_progress_dialog_title">Composition</string>
     
-    <string name="tgm_dial_to_network_progress_dialog_message">Connexion à un réseau 3G, s'il vous plaît attendre un moment</string>
+    <string name="tgm_dial_to_network_progress_dialog_message">Connexion à un réseau 3G, s\'il vous plaît attendre un moment</string>
     
     <string name="tgm_dial_failed_dialog_title">Avis</string>
     
-    <string name="tgm_dial_failed_dialog_message">Composition d'erreur, s'il vous plaît replay!</string>
+    <string name="tgm_dial_failed_dialog_message">Composition d\'erreur, s\'il vous plaît replay!</string>
     
     <string name="tgm_dial_failed_ok_btn_text">OK</string>
         
     <string name="tgm_disconnect_from_network_progress_dialog_title">Déconnecté</string>
     
-    <string name="tgm_disconnect_from_network_progress_dialog_message">Pannes de réseau 3G, s'il vous plaît.</string>
+    <string name="tgm_disconnect_from_network_progress_dialog_message">Pannes de réseau 3G, s\'il vous plaît.</string>
     
     <string name="tgm_enter_pin_progress_dialog_title">Rafraîchissant</string>
     
-    <string name="tgm_enter_pin_progress_dialog_message">Rafraîchissant état de l'appareil, s'il vous plaît attendre un moment</string>
+    <string name="tgm_enter_pin_progress_dialog_message">Rafraîchissant état de l\'appareil, s\'il vous plaît attendre un moment</string>
     
     <string name="tgm_disable_wifi_dialog_title_text">Configuration WiFi</string>
     
@@ -124,7 +124,7 @@
     
     
     
-    <string name="tgm_dial_info_text">S'il vous plaît cliquez sur l'icône ligne pour combler votre connexion 3G.</string>
+    <string name="tgm_dial_info_text">S\'il vous plaît cliquez sur l\'icône ligne pour combler votre connexion 3G.</string>
     
     <string name="tgm_dial_btn_text">Dial</string>
     
@@ -132,15 +132,15 @@
     
     <string name="tgm_connection_established_label">Connection Établi</string>
     
-    <string name="tgm_connection_success_text">Connect succčs!\nS'il vous plaît appuyez Accueil Key to processus autres applications avec 3G connexion.</string>
+    <string name="tgm_connection_success_text">Connect succčs!\nS\'il vous plaît appuyez Accueil Key to processus autres applications avec 3G connexion.</string>
     
     <string name="tgm_connection_time_label">Connexion Heure: </string>
     
-    <string name="tgm_network_flow_label">Réseau d'écoulement: </string>
+    <string name="tgm_network_flow_label">Réseau d\'écoulement: </string>
     
-    <string name="tgm_disconnect_info_text_left">S'il vous plaît cliquez sur le</string>
+    <string name="tgm_disconnect_info_text_left">S\'il vous plaît cliquez sur le</string>
     
-    <string name="tgm_disconnect_info_text_right">d'arrêter votre connexion 3G.</string>
+    <string name="tgm_disconnect_info_text_right">d\'arrêter votre connexion 3G.</string>
     
     <string name="tgm_about_us_version_text">Version: 3G Wizard 1.2.0.001, 2010/05/10</string>
     
@@ -149,7 +149,7 @@
     <string name="tgm_about_us_description_text">
     3G Assistant est une application 3G connecter pour OS Android fourni par Camangi Corporation.\n
 	Camangi est une société internationale spécialisée dans les affaires de la communication sur Internet, la technologie Web\n
-	inincluding brevet Talk, les solutions de voix sur IP à valeur ajoutée, plateforme d'applications ou de modules pour le Web et l'exploitation des services Internet depuis 2002.
+	inincluding brevet Talk, les solutions de voix sur IP à valeur ajoutée, plateforme d\'applications ou de modules pour le Web et l\'exploitation des services Internet depuis 2002.
     </string>
     
     <string name="tgm_about_us_copyright_text">Copyright 2009-2011 Camangi Corp. All rights reserved.
@@ -157,7 +157,7 @@ The 3G Wizard name and logo are trademarks of Camangi Corp.
     </string>
     
     <string name= "tgm_about_us_warning_text">
-    Avertissement Ce logiciel est protégé par droit d'auteur. Toute reproduction ou distribution de ce logiciel, mai entraîner des poursuites civiles et / ou pénales, et seront poursuivis avec toute la rigueur de la loi.
+    Avertissement Ce logiciel est protégé par droit d\'auteur. Toute reproduction ou distribution de ce logiciel, mai entraîner des poursuites civiles et / ou pénales, et seront poursuivis avec toute la rigueur de la loi.
     </string>
     
     <string name="tgm_about_us_leave_btn_text">Retour</string>
